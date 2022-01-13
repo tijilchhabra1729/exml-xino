@@ -8,7 +8,6 @@ import glob
 
 from sklearn.metrics import classification_report, confusion_matrix
 
-# deep learning libraries
 import tensorflow as tf
 import keras
 from keras.preprocessing.image import ImageDataGenerator
